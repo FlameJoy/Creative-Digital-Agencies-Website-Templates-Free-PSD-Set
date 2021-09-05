@@ -1,5 +1,5 @@
 /* fonts */
-@import url("/fonts/Gotham/stylesheet.css");
+@import url("../fonts/Gotham/stylesheet.css");
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 body {
@@ -22,7 +22,7 @@ a {
 
 /* Wrapper */
 .wrapper {
-    background: url(/media/backgrounds/creative-background-header.png) center/cover no-repeat fixed;
+    background: url(../media/backgrounds/creative-background-header.png) center/cover no-repeat fixed;
     height: 100%;
 }
 header {
@@ -309,7 +309,7 @@ section.team {
 
 /* key-features */
 .key-features {
-    background: url(/media/backgrounds/key-feature-back.png) center/cover no-repeat fixed;
+    background: url(../media/backgrounds/key-feature-back.png) center/cover no-repeat fixed;
 }
 .key-features-container {
     padding: 100px 0;
@@ -361,7 +361,7 @@ section.team {
 
 /* contact us */
 .contact-us {
-    background: url(/media/backgrounds/contact-area-back.png) center/cover no-repeat fixed;
+    background: url(../media/backgrounds/contact-area-back.png) center/cover no-repeat fixed;
     padding: 80px 0;
 }
 .contact-us-title {
